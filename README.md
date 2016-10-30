@@ -1,0 +1,2 @@
+This is one of the early learning projects from the Odin Project. In this project I will be utilizing GitHub and creating a mock up of the Google homepage using basic html/css. 
+You can see details at: http://www.theodinproject.com/courses/web-development-101/lessons/html-css
